@@ -1,0 +1,6 @@
+REPL
+Js Expression
+use Varibles
+Multiline code 
+use (_) to get the last result
+we can use editor mode 
