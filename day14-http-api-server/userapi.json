@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Devraj Vaishnav",
+      "email": "devraj@example.com",
+      "address": {
+        "city": "Udaipur",
+        "state": "Rajasthan"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Aarav Sharma",
+      "email": "aarav@example.com",
+      "address": {
+        "city": "Jaipur",
+        "state": "Rajasthan"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Isha Patel",
+      "email": "isha@example.com",
+      "address": {
+        "city": "Ahmedabad",
+        "state": "Gujarat"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Kabir Khan",
+      "email": "kabir@example.com",
+      "address": {
+        "city": "Mumbai",
+        "state": "Maharashtra"
+      }
+    }
+  ]
+  
