@@ -1,0 +1,14 @@
+{
+  "name": "day17-express-1",
+  "version": "1.0.0",
+  "description": "express start ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devraj vaishanv",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
